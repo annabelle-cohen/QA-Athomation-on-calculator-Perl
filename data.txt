@@ -1,0 +1,14 @@
+{TAB} {ENT} {TAB} {TAB} {TAB} {ENT} {TAB} {ENT} {TAB} {TAB} {TAB} {ENT} 
+{TAB} {TAB} {TAB} {TAB} 999  {TAB} 999 {TAB} 999 
+{TAB} {TAB} {TAB} {TAB} {TAB} {TAB} 0  {TAB} 0 {TAB} 0 
+{TAB} 999  {TAB} 999 {TAB} 999 
+{TAB} {TAB} {TAB} {TAB} {TAB} {TAB} 0  {TAB} 0 {TAB} 0 
+{TAB} {TAB} {TAB} {TAB} {TAB} {TAB} 418{TAB} 11{TAB} 30 
+{TAB} {TAB} {TAB} {TAB} {TAB} {TAB} {ENT} {DOWN} {ENT} {TAB} {TAB} 
+{TAB} {TAB} {TAB} {TAB} {TAB} {TAB} {UP} {ENT} {TAB} {ENT} {DOWN} {ENT} {TAB} 
+{TAB} {TAB} {TAB} {TAB} {TAB} {TAB} {TAB} {ENT} {UP} {ENT} {TAB} {ENT} {DOWN} {DOWN} {ENT} 
+{TAB} {TAB} {TAB} 0 {TAB} 0 {TAB} 0 
+{TAB} {TAB} {TAB} {TAB} {TAB} {TAB} 1  {TAB} 1 {TAB} 1
+{TAB} {TAB} 0 {TAB} 0 {TAB} 0 
+{TAB} {TAB} {TAB} {TAB} {TAB} {TAB} 999  {TAB} 999 {TAB} 999 
+
